@@ -20,7 +20,6 @@ I made a daily training schedule for myself and I keep to it. I realy want to le
 * JQuery
 
 <h3>Code examples</h3>
-<h3>Code examples</h3>
 
 [pig game](https://agarkovroman.github.io/pig-game-traning-project/), [omnifood](https://agarkovroman.github.io/omnifood-traning-project/)
 
@@ -40,4 +39,5 @@ And apply them in practice.
 I got my bachelor's degree in Saint Petersburg State University of Architecture and Civil Engineering
 
 <h3>English</h3>
+
 My English level is B1 (Intermediate)
