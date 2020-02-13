@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(23, 31, 42);
+    color: rgb(204, 204, 204);
+    font-size: 35px;
+}
+
+.wrap {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 35px;
+}
+
+h2 {
+    margin: 25px 0;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    border-radius: 50%;
+    max-width: 350px;
+    margin: 20px 0;
+}
+
+.dots {
+    list-style: circle;
+    margin-left: 50px;
+}
+
+.code-examples li {
+    margin-top: 10px;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: rgb(204, 204, 204);
+}
+
+a:hover,
+a:active {
+    color: rgb(204, 204, 204);
+    border: 1px solid rgb(204, 204, 204);
+    padding: 5px;
+    border-radius: 10px;
+}
